@@ -1,0 +1,9 @@
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe.config
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\bin\Debug\MiPrimerProyectoWindowsForms.pdb
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Form1.resources
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.Properties.Resources.resources
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.csproj.GenerateResource.Cache
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.exe
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoWindowsForms\obj\Debug\MiPrimerProyectoWindowsForms.pdb

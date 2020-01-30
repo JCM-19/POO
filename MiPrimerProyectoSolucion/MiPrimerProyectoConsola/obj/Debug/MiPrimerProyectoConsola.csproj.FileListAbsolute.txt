@@ -1,0 +1,6 @@
+c:\users\titan\documents\visual studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\MiPrimerProyectoSolucion\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
