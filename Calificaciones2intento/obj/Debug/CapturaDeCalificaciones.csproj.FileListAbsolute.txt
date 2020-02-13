@@ -1,0 +1,9 @@
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe.config
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.exe
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.pdb
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.pdb
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificaciones.csprojResolveAssemblyReference.cache
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Form1.resources
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Properties.Resources.resources
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificaciones.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe.config
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.exe
+C:\Users\Titan\Documents\Visual\Visual Studio 2015\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.pdb
