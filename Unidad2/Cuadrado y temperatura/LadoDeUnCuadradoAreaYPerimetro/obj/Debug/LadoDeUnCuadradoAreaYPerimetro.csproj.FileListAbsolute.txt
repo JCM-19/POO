@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\bin\Debug\LadoDeUnCuadradoAreaYPerimetro.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.frmCuadrado.resources
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\bin\Debug\LadoDeUnCuadradoAreaYPerimetro.exe
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\bin\Debug\LadoDeUnCuadradoAreaYPerimetro.pdb
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.exe
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\LadoDeUnCuadradoAreaYPerimetro\obj\Debug\LadoDeUnCuadradoAreaYPerimetro.pdb

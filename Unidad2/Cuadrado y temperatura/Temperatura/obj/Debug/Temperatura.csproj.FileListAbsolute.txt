@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\bin\Debug\Temperatura.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\bin\Debug\Temperatura.exe
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\bin\Debug\Temperatura.pdb
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.exe
+c:\users\titan\documents\visual studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.pdb
+C:\Users\Titan\Documents\Visual Studio 2015\Projects\LadoDeUnCuadradoAreaYPerimetro\Temperatura\obj\Debug\Temperatura.csprojResolveAssemblyReference.cache
