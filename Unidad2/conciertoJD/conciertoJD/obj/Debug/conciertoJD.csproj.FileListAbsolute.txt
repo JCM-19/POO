@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\bin\Debug\conciertoJD.exe.config
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\bin\Debug\conciertoJD.exe
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\bin\Debug\conciertoJD.pdb
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.csprojResolveAssemblyReference.cache
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.Form1.resources
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.Properties.Resources.resources
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.csproj.GenerateResource.Cache
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.exe
+C:\Users\Titan\documents\visual studio 2015\Projects\conciertoJD\conciertoJD\obj\Debug\conciertoJD.pdb
