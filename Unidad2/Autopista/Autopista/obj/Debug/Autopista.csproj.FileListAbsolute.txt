@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\bin\Debug\Autopista.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\bin\Debug\Autopista.exe
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\bin\Debug\Autopista.pdb
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.exe
+c:\users\titan\documents\visual studio 2015\Projects\Autopista\Autopista\obj\Debug\Autopista.pdb

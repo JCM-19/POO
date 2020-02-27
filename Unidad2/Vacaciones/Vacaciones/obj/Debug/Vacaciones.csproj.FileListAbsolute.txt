@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\bin\Debug\Vacaciones.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\bin\Debug\Vacaciones.exe
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\bin\Debug\Vacaciones.pdb
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.exe
+c:\users\titan\documents\visual studio 2015\Projects\Vacaciones\Vacaciones\obj\Debug\Vacaciones.pdb
