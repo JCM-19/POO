@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\bin\Debug\Examen2-3Nuevo.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\bin\Debug\Examen2-3Nuevo.exe
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\bin\Debug\Examen2-3Nuevo.pdb
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2-3Nuevo.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2_3Nuevo.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2_3Nuevo.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2-3Nuevo.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2-3Nuevo.exe
+c:\users\titan\documents\visual studio 2015\Projects\Examen2-3Nuevo\Examen2-3Nuevo\obj\Debug\Examen2-3Nuevo.pdb
