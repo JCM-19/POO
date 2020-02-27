@@ -1,0 +1,10 @@
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.exe
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\bin\Debug\Embotelladora.pdb
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.exe
+c:\users\titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.pdb
+C:\Users\Titan\documents\visual studio 2015\Projects\Unidad1POO\Embotelladora\obj\Debug\Embotelladora.FrmEmbotelladora.resources
