@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\bin\Debug\Electricidad.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\bin\Debug\Electricidad.exe
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\bin\Debug\Electricidad.pdb
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.exe
+c:\users\titan\documents\visual studio 2015\Projects\Electricidad\Electricidad\obj\Debug\Electricidad.pdb
