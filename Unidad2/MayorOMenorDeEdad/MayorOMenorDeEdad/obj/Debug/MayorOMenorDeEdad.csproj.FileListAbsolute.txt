@@ -1,0 +1,9 @@
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.exe.config
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.exe
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\bin\Debug\MayorOMenorDeEdad.pdb
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.csprojResolveAssemblyReference.cache
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.Form1.resources
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.Properties.Resources.resources
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.csproj.GenerateResource.Cache
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.exe
+c:\users\titan\documents\visual studio 2015\Projects\MayorOMenorDeEdad\MayorOMenorDeEdad\obj\Debug\MayorOMenorDeEdad.pdb
