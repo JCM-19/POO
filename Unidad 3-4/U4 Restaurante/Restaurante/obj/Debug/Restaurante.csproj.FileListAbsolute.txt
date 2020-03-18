@@ -1,0 +1,11 @@
+c:\users\icebr\documents\visual studio 2015\Projects\U4 Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+G:\U4 Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+E:\U4 Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+E:\U4 Restaurante\Restaurante\bin\Debug\Restaurante.exe
+E:\U4 Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.Form1.resources
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.exe
+E:\U4 Restaurante\Restaurante\obj\Debug\Restaurante.pdb
