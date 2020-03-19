@@ -1,0 +1,4 @@
+c:\users\ls-equipo-24\documents\visual studio 2015\Projects\Operacion\Unidad 4\bin\Debug\Unidad 4.exe.config
+G:\Operacion\Unidad 4\bin\Debug\Unidad 4.exe.config
+D:\Operacion\Unidad 4\bin\Debug\Unidad 4.exe.config
+F:\Operacion\Unidad 4\bin\Debug\Unidad 4.exe.config
