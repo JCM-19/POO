@@ -1,0 +1,11 @@
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.exe
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.deps.json
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.runtimeconfig.json
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.runtimeconfig.dev.json
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.dll
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\bin\Debug\netcoreapp3.1\MiPrimerArreglo.pdb
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\obj\Debug\netcoreapp3.1\MiPrimerArreglo.csprojAssemblyReference.cache
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\obj\Debug\netcoreapp3.1\MiPrimerArreglo.AssemblyInfoInputs.cache
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\obj\Debug\netcoreapp3.1\MiPrimerArreglo.AssemblyInfo.cs
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\obj\Debug\netcoreapp3.1\MiPrimerArreglo.dll
+C:\Users\Titan\source\repos\Unidad5\MiPrimerArreglo\obj\Debug\netcoreapp3.1\MiPrimerArreglo.pdb
